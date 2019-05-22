@@ -9,7 +9,7 @@ Dec 2018 - Mar 2019
 Pharmacy Utilization Management Reporting
 Mar 2018 – Nov 2018
 
-Project descriptionCollaborated with Pharmacy business teams to understand the product, met with data architects to understand where the data is present, modeled data to meet project needs, lead the efforts of developing ETL code to feed the downstream application components, then worked with business teams to understand the project expectation and worked with SMEs to define logic for calculating savings and translated business logic to technical requirements. Introduced newer ways to document requirements that can be easily understood by developers.
+Collaborated with Pharmacy business teams to understand the product, met with data architects to understand where the data is present, modeled data to meet project needs, lead the efforts of developing ETL code to feed the downstream application components, then worked with business teams to understand the project expectation and worked with SMEs to define logic for calculating savings and translated business logic to technical requirements. Introduced newer ways to document requirements that can be easily understood by developers.
 
 CICD
 Jul 2016 – Present
