@@ -1,7 +1,10 @@
 # Projects
 
+ARC - intra-company content management system development using Angular and fullstack technologies
+July 2019 - present
+
 Graph Visualization development and angular integration
-Apr 2019 - present
+Apr 2019 - July 2019
 
 Metrics and Visualization tool development
 Dec 2018 - Mar 2019
